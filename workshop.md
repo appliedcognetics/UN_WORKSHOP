@@ -35,7 +35,7 @@ https://www.interaction-design.org/literature/article/design-thinking-a-quick-ov
 ## Start Prompting
 
 ```text
-Can I reframe this question to produce more through results ? what frameworks similar to the bloom taxonomy , maslow hierarchy of needs, and zone of proximal development exist that I should provide in the instructions as best practices ?
+Can I reframe this question to produce more through results ? what frameworks similar to the bloom taxonomy , maslow hierarchy of needs, and zone of proximal development exist that I can use to create an agentic system to help learners build learning journeys , assess learning capabilities, create learning programs and content.
 I want to generate a list of frameworks that I can use to develop educational programs for learners. 
 ```
 
@@ -57,17 +57,12 @@ What educational learning objective & psychological frameworks eg bloom taxonomy
 What are some effective educational learning objective frameworks, such as Bloom's Taxonomy, Maslow's Hierarchy of Needs, and the Zone of Proximal Development, that can be utilized as best practices for developing comprehensive educational programs for learners?
 ```
 
-## Version 2
+## A different version
 
 ```text
 What educational learning objective & psychological frameworks eg bloom taxonomy , maslow hierarchy of needs, and zone of proximal development can I use as as best practices to develop education learning programs for learners? I want to generate a list of frameworks that I can use to develop educational programs for learners.
 ```
 
-## Follow-up Question
-
-```text
-Are there any other frameworks I should consider ?
-```
 ### Result
 
 ```text 
