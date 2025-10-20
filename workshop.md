@@ -125,6 +125,12 @@ I want to use the learning taxonomies you described above and somehow incorporat
 
 ## Create an Agent/ Instructions
 
+### Goal
+
+Create an Agent that will carry out the instructions. 
+We will use AI Foundry 
+Alternative github models : https://github.com/marketplace/models
+
 ### Prompt
 ```text
 can you generate an instruction that I could provide to an agent that would represent the agentic system you described above I will have just one agent I want to feed the agent the user profile then have the agentic system do the work you described in the mermaid graph. you can include the mermaid graph in your instructions
