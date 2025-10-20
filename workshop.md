@@ -34,6 +34,10 @@ https://www.interaction-design.org/literature/article/design-thinking-a-quick-ov
 To deliver a dynamic and engaging participatory workshop were segments will be audience directed. The presenter will gather information in real time to demonstrate the power of AI in designing a system in real time. The workshop will be a mix of presentations, demos, and interactive sessions to ensure that the audience is engaged and can see the practical applications of AI in Learning and Development.
  Provide some sample prompts for each stage of the design thinking framework that can be used in the context of learning and development with AI.
 
+## Prerequisites
+
+- Copilot or any AI ChatBot Service
+
 
 ## Start Prompting
 
