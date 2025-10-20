@@ -40,7 +40,9 @@ I want to generate a list of frameworks that I can use to develop educational pr
 ```
 
 ### Result 
+```text
 What are some educational frameworks, similar to Bloom's Taxonomy, Maslow's Hierarchy of Needs, and the Zone of Proximal Development, that can be used as best practices for developing educational programs for learners?
+```
 ---
 
 ```text
