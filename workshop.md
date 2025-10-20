@@ -4,7 +4,6 @@
 
  Interactive Workshop : Critical Thinking and Problem Solving with AI
 
-
 1) Apply Design thinking to the learning and development process
  - How can we apply design thinking to learning and development?
 
@@ -28,7 +27,10 @@ https://www.interaction-design.org/literature/article/design-thinking-a-quick-ov
  - What are the key AI tools and techniques that can be applied at each stage of the design thinking framework?
  - How can we ensure that AI solutions are user-centered and aligned with the needs of learners?
 
+---
+## Goal:
 
+To deliver a dynamic and engaging participatory workshop were segments will be audience directed. The presenter will gather information in real time to demonstrate the power of AI in designing a system in real time. The workshop will be a mix of presentations, demos, and interactive sessions to ensure that the audience is engaged and can see the practical applications of AI in Learning and Development.
  Provide some sample prompts for each stage of the design thinking framework that can be used in the context of learning and development with AI.
 
 
