@@ -28,6 +28,7 @@ https://www.interaction-design.org/literature/article/design-thinking-a-quick-ov
  - How can we ensure that AI solutions are user-centered and aligned with the needs of learners?
 
 ---
+
 ## Goal:
 
 To deliver a dynamic and engaging participatory workshop were segments will be audience directed. The presenter will gather information in real time to demonstrate the power of AI in designing a system in real time. The workshop will be a mix of presentations, demos, and interactive sessions to ensure that the audience is engaged and can see the practical applications of AI in Learning and Development.
