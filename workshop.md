@@ -12,6 +12,7 @@
  - Pick a design thinking framework that is suitable for learning and development.
  - How can we apply design thinking to learning and development?
  - What are the key stages of design thinking in this context?
+   
     5 Stage Design Thinking Framework
         - Empathize: Understand the needs of the users.
         - Define: Clearly articulate the problem to be solved.
