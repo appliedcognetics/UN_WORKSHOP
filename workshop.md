@@ -55,7 +55,7 @@ What educational learning objective & psychological frameworks eg bloom taxonomy
 What are some effective educational learning objective frameworks, such as Bloom's Taxonomy, Maslow's Hierarchy of Needs, and the Zone of Proximal Development, that can be utilized as best practices for developing comprehensive educational programs for learners?
 ```
 
-## Version
+## Version 2
 ```text
 What educational learning objective & psychological frameworks eg bloom taxonomy , maslow hierarchy of needs, and zone of proximal development can I use as as best practices to develop education learning programs for learners? I want to generate a list of frameworks that I can use to develop educational programs for learners.
 ```
@@ -64,9 +64,6 @@ What educational learning objective & psychological frameworks eg bloom taxonomy
 ```text
 Are there any other frameworks I should consider ?
 ```
-
-
-
 
 
 ```text 
